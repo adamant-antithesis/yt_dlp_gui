@@ -73,7 +73,7 @@ Choose the folder where you want to save the downloaded video.
 ```
 Click on the "Download" button to begin the download process.
 ```
-![gifyt](https://github.com/user-attachments/assets/28fe2c8a-5a45-453f-b6ab-1d24a216c19c)
+
 ![Gif](./gifyt.gif)
 
 ## Log Output Example
