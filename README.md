@@ -74,7 +74,9 @@ Choose the folder where you want to save the downloaded video.
 Click on the "Download" button to begin the download process.
 ```
 
-![Gif](./gifyt.gif)
+<p align="center">
+  <img src="./gifyt.gif" alt="Gif">
+</p>
 
 ## Log Output Example
 ```
