@@ -27,7 +27,7 @@ brew install ffmpeg
 
 1. Clone the repository:
 ```
-git clone https://github.com/adamant-antithesis/todo_test.git
+git clone https://github.com/adamant-antithesis/yt_dlp_gui.git
 ```
 2. Create a virtual environment (optional but recommended):
 ```
