@@ -25,11 +25,11 @@ brew install ffmpeg
 
 # Installation
 
-1.Clone the repository:
+1. Clone the repository:
 ```
 git clone https://github.com/adamant-antithesis/todo_test.git
 ```
-2.Create a virtual environment (optional but recommended):
+2. Create a virtual environment (optional but recommended):
 ```
 python -m venv venv
 ```
@@ -38,11 +38,11 @@ python -m venv venv
 On Windows - env\Scripts\activate
 On macOS and Linux - source env/bin/activate
 ```
-4.Install dependencies:
+4. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-5.Run the App:
+5. Run the App:
 ```
 python ytdl_gui.py
 ```
