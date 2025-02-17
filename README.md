@@ -1,4 +1,4 @@
-# YTDL GUI by Adamant
+![gifyt](https://github.com/user-attachments/assets/28fe2c8a-5a45-453f-b6ab-1d24a216c19c)# YTDL GUI by Adamant
 
 A simple graphical user interface (GUI) to download videos using [yt-dlp](https://github.com/yt-dlp/yt-dlp). This application allows you to easily input a video URL, select download quality, format, and destination folder, and start the download process.
 
@@ -73,6 +73,7 @@ Choose the folder where you want to save the downloaded video.
 ```
 Click on the "Download" button to begin the download process.
 ```
+![Gif](./gifyt.gif)
 
 ## Log Output Example
 ```
